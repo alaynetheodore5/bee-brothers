@@ -20,10 +20,6 @@ const Header = props => {
 </div>
 </section>
 
-{/* <section id="rest-img">
-  <img className="restaurant" src="/Images/restaurant.jpg" alt="bee brothers restaurant"/>
-</section> */}
-
 <section id="carousel">  
     <div className='container-fluid' >  
       <Carousel>  
